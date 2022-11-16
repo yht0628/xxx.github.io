@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+p {
+	color: red;
+}
+p span {
+	color: skyblue;
+}
+p strong {
+	font-size: 24px;
+	font-weight: 700;
+}
